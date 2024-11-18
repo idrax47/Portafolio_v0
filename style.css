@@ -50,7 +50,7 @@ a {
 }
 
 a:hover {
-    transform: scale(1.05);
+    transform: scale(1.5);
     background-color: #005fa3;
 }
 
